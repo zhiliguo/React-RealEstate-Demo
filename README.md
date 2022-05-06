@@ -2,17 +2,17 @@
 It just for self enhancement project
 
 
-#Start instruction
-//Highly recommand re-intsall the node dependencies
-//recommand use yarn to install all dependencies
+##Start instruction
+##Highly recommand re-intsall the node dependencies
+##recommand use yarn to install all dependencies
 yarn install
 
-//under the root Catalogue
+##under the root Catalogue
 cd server
 node index.js
 
-//Make sure the server is runing at 5577 port
-//new termial under root Catalogue
+##Make sure the server is runing at 5577 port
+##new termial under root Catalogue
 npm start
 
 
