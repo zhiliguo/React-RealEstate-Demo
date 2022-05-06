@@ -2,20 +2,18 @@
 It just for self enhancement project
 
 
-##Start instruction
-##Highly recommand re-intsall the node dependencies
-##recommand use yarn to install all dependencies
-yarn install
+## Start instruction<br>
+1.Highly recommand re-intsall the node dependencies<br>
+2.recommand use yarn to install all dependencies<br>
+3.yarn install
 
-##under the root Catalogue
-cd server
-node index.js
+## under the root Catalogue
+cd server<br>
+node index.js<br>
 
-##Make sure the server is runing at 5577 port
-##new termial under root Catalogue
-npm start
-
-
+## Make sure the server is runing at 5577 port<br>
+new termial under root Catalogue<br>
+npm start<br>
 
 ## 技术栈/Technology Stack
 React + ReactHook + ReactRouter + Redux + Axios + Less + Third Party plugin
